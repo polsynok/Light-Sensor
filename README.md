@@ -20,3 +20,8 @@ Wiring
 - Plug the Grove Button into D2
 
 - Plug the Grove LED into D3
+
+
+
+
+Done by students S00244815 Ihor Utochkin and S00273098 Viktor Senkyn.
